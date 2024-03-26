@@ -10,7 +10,7 @@ Welcome to Marrakech Project, a responsive website dedicated to exploring the vi
 - **Join Us:** Stay updated with the latest travel updates and information by subscribing to our newsletter.
 
 ### Live Demo:
-Explore the live demo [here](#) to experience Marrakech virtually.
+Explore the live demo [here](https://marrakech-landing-page.vercel.app/) to experience Marrakech virtually.
 
 ### Technologies Used:
 - HTML5
