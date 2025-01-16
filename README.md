@@ -21,8 +21,6 @@ Explore the live demo [here](https://marrakech-landing-page.vercel.app/) to expe
 
 This website is designed to be fully responsive, ensuring an optimal viewing experience across various devices and screen sizes.
 
-Made with love ❤️ and special thanks to [Nourdev](https://github.com/N0urDEV) for assistance with pictures and colors.
-
 Feel free to explore the beauty of Marrakech through this project. Happy travels!
 
 All rights reserved. No permissions are granted for use, modification, or distribution without explicit consent from the owner.
